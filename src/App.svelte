@@ -35,7 +35,7 @@
           <a
             class="inline-block text-blue-300 no-underline hover:text-indigo-800 hover:text-underline text-center h-10 p-2 md:h-auto md:p-4"
             data-tippy-content="@twitter_handle"
-            href="https://twitter.com/intent/tweet?url=#"
+            href="https://twitter.com/intent/tweet?url=#https://give-ten.vercel.app/"
           >
             <svg
               class="fill-current h-6"
@@ -49,7 +49,7 @@
           <a
             class="inline-block text-blue-300 no-underline hover:text-indigo-800 hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 "
             data-tippy-content="#facebook_id"
-            href="https://www.facebook.com/sharer/sharer.php?u=#"
+            href="https://www.facebook.com/sharer/sharer.php?u=#https://give-ten.vercel.app/"
           >
             <svg
               class="fill-current h-6"
