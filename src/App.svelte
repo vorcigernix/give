@@ -6,9 +6,7 @@
   class="App leading-normal tracking-normal text-gray-900"
   style="font-family: 'Source Sans Pro', sans-serif;"
 >
-  <div
-    class="h-screen pb-14 bg-right bg-cover"
-  >
+  <div class="h-screen pb-14 bg-right bg-cover">
     <!--Nav-->
     <div class="w-full container mx-auto p-6">
       <div class="w-full flex items-center justify-between">
@@ -173,7 +171,9 @@
                     <a
                       href="https://atomicwallet.io/downloads"
                       class="font-bold underline">Atomic.</a
-                    >
+                    > Links from this site (check the address bar, it shoud be https://give-ten.vercel.app)
+                    are safe, but generally better practice is to download the apps
+                    by searching your App Store by name.
                   </dd>
                 </div>
               </div>
@@ -291,17 +291,25 @@
                 </div>
               </div>
             </dl>
-            <dl class="mt-12 ml-16 text-base text-gray-700">
-              Now you are ready to go. I suggest to add some text to the printed
-              QR code and make it waterproof. It is good to have this QR code
-              visible, so you can skip the awkward discussion about tipping.
-              Keep in mind that some people will not understand the concept and
-              it is avery bad idea to push your customer out of their comfort
-              zone. Simply say something like "if you liked my service or
-              delivery, consider installing digital wallet and tip me with the
-              cryptocurrency tokens.". Some people will not like the idea and
-              that's okay, some of them will never tip you anyway.
-            </dl>
+            <p class="mt-12 ml-16 text-base text-gray-700">
+              You are ready to go. I suggest to add some text to the printed QR
+              code, like "tip me" and make it waterproof. It is good to have
+              this QR code visible, so you can skip the awkward discussion about
+              tipping. Keep in mind that some people will not understand the
+              concept and it is avery bad idea to push your customer out of
+              their comfort zone. Simply say something like "if you liked my
+              service or delivery, consider installing digital wallet and tip me
+              with the cryptocurrency tokens.". Some people will not like the
+              idea and that's okay, some of them will never give a tip anyway.
+            </p>
+            <p class="mt-12 ml-16 text-base text-gray-700">
+              How to use your fresh tokens is a material for another article.
+              Best thing you can do is to keep them, as the real value of
+              goverment issued currencies goes down over time, while tokens goes
+              up. If you need to use them, there are services that will allow to
+              use them from a regular debit card. I use Binance card, but the
+              crypto.com card is probably generally better.
+            </p>
           </div>
         </div>
       </div>
