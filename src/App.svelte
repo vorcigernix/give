@@ -117,7 +117,7 @@
       </div>
 
       <div class="py-12 pt-24 mt-28 bg-white">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="mx-auto px-4 sm:px-6 lg:px-8">
           <div class="lg:text-center">
             <p
               class="mt-2 text-3xl leading-8 font-bold tracking-tight text-purple-800 sm:text-4xl"
@@ -291,32 +291,52 @@
                 </div>
               </div>
             </dl>
-            <p class="mt-12 ml-16 text-base text-gray-700">
-              You are ready to go. I suggest to add some text to the printed QR
-              code, like "tip me" and make it waterproof. It is good to have
-              this QR code visible, so you can skip the awkward discussion about
-              tipping. Keep in mind that some people will not understand the
-              concept and it is avery bad idea to push your customer out of
-              their comfort zone. Simply say something like "if you liked my
-              service or delivery, consider installing digital wallet and tip me
-              with the cryptocurrency tokens.". Some people will not like the
-              idea and that's okay, some of them will never give a tip anyway.
-            </p>
-            <p class="mt-12 ml-16 text-base text-gray-700">
-              How to use your fresh tokens is a material for another article.
-              Best thing you can do is to keep them, as the real value of
-              goverment issued currencies goes down over time, while tokens goes
-              up. If you need to use them, there are services that will allow to
-              use them from a regular debit card. I use Binance card, but the
-              crypto.com card is probably generally better.
-            </p>
+            <div
+              class="container pt-24 md:pt-48 px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center"
+            >
+              <!--Left Col-->
+              <div
+                class="flex flex-col w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden"
+              >
+                <p class="mt-12 ml-16 text-sm text-center text-gray-900">
+                  You are ready to go. I suggest to add some text to the printed
+                  QR code, like "tip me" and make it waterproof. It is good to
+                  have this QR code visible, so you can skip the awkward
+                  discussion about tipping. Keep in mind that some people will
+                  not understand the concept and it is avery bad idea to push
+                  your customer out of their comfort zone. Simply say something
+                  like "if you liked my service or delivery, consider installing
+                  digital wallet and tip me with the cryptocurrency tokens."
+                  Some people will not like the idea and that's okay, some of
+                  them will never give a tip anyway.
+				</p>
+				<p class="mt-12 ml-16 text-sm text-center text-gray-900">
+					How to use your fresh tokens is a material for another
+					article. Best thing you can do is to keep them, as the real
+					value of goverment issued currencies goes down over time,
+					while tokens goes up. If you need to use them, there are
+					services that will allow to use them from a regular debit
+					card. I use Binance card, but the crypto.com card is probably
+					generally better.
+				  </p>
+              </div>
+              <!--Right Col-->
+              <div class="w-full xl:w-3/5 py-6 overflow-y-hidden">
+                <img
+                  class="w-5/6 mx-auto lg:mr-0 slide-in-bottom"
+                  src="/illustratio3.svg"
+                  alt="illustration"
+                />
+			  </div>
+			</div>
+  
           </div>
         </div>
       </div>
 
       <!--Footer-->
       <div class="w-full pt-16 pb-6 text-sm text-center md:text-left fade-in">
-        <a class="text-gray-500 no-underline hover:no-underline" href="/"
+        <a class="text-gray-500 no-underline hover:no-underline" href="https://adamsobotka.vercel.app/"
           >&copy; Adam Sobotka 2021</a
         >
       </div>
