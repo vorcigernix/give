@@ -298,7 +298,7 @@
               <div
                 class="flex flex-col w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden"
               >
-                <p class="mt-12 ml-16 text-sm text-center text-gray-900">
+                <p class="md:mt-12 md:ml-16 text-sm text-center text-gray-900">
                   You are ready to go. I suggest to add some text to the printed
                   QR code, like "tip me" and make it waterproof. It is good to
                   have this QR code visible, so you can skip the awkward
@@ -310,7 +310,7 @@
                   Some people will not like the idea and that's okay, some of
                   them will never give a tip anyway.
 				</p>
-				<p class="mt-12 ml-16 text-sm text-center text-gray-900">
+				<p class="md:mt-12 md:ml-16 text-sm text-center text-gray-900">
 					How to use your fresh tokens is a material for another
 					article. Best thing you can do is to keep them, as the real
 					value of goverment issued currencies goes down over time,
